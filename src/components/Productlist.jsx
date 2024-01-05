@@ -2,6 +2,7 @@ import React from "react";
 import arrowleft from "../images/arrow-left.svg";
 import "./Productlist.css";
 import a1 from "../images/1.svg";
+import cart from "../images/Cart.svg"
 import a31 from "../images/31.svg";
 import a32 from "../images/32.svg";
 import a36 from "../images/36.svg";
@@ -339,7 +340,7 @@ const Productlist = () => {
           </sec2>
           <card className="row b8 d-flex">
             <div className="col-xl-3  col-lg-4 col-md-6 bg-white p9 col-12">
-              <img src={a31} alt="" className="py-3" />
+              <img src={a31} alt="" className="mt-3" />
               <img
                 src={a36}
                 alt=""
@@ -379,13 +380,13 @@ const Productlist = () => {
                   href="#"
                   className="bg-white d11 col"
                 >
-                  <img src="./images/Cart.svg" alt="" />
+                  <img src={cart} alt="" />
                   <p style={{ marginBottom: "0rem" }}>Your Cart</p>
                 </button>
               </div>
             </div>
             <div className="col-xl-3  col-lg-4 col-md-6 bg-white p9 col-12">
-              <img src={a31} alt="" className="py-3" />
+              <img src={a31} alt="" className="mt-3" />
               <img
                 src={a32}
                 alt=""
@@ -426,13 +427,13 @@ const Productlist = () => {
                   href="#"
                   className="bg-white d11 col"
                 >
-                  <img src="./images/Cart.svg" alt="" />
+                  <img src={cart} alt="" />
                   <p style={{ marginBottom: "0rem" }}>Your Cart</p>
                 </button>
               </div>
             </div>
             <div className="col-xl-3  col-lg-4 col-md-6 bg-white p9 col-12">
-              <img src={a31} alt="" className="py-3" />
+              <img src={a31} alt="" className="mt-3" />
               <img
                 src={a38}
                 alt=""
@@ -472,13 +473,13 @@ const Productlist = () => {
                   href="#"
                   className="bg-white d11 col "
                 >
-                  <img src="./images/Cart.svg" alt="" />
+                  <img src={cart} alt="" />
                   <p style={{ marginBottom: "0rem" }}>Your Cart</p>
                 </button>
               </div>
             </div>
             <div className="col-xl-3  col-lg-4 col-md-6 bg-white p9 col-12">
-              <img src={a31} alt="" className="py-3" />
+              <img src={a31} alt="" className="mt-3" />
               <img
                 src={a39}
                 alt=""
@@ -518,13 +519,13 @@ const Productlist = () => {
                   href="#"
                   className="bg-white d11 col"
                 >
-                  <img src="./images/Cart.svg" alt="" />
+                  <img src={cart} alt="" />
                   <p style={{ marginBottom: "0rem" }}>Your Cart</p>
                 </button>
               </div>
             </div>
             <div className="col-xl-3  col-lg-4 col-md-6 bg-white p9 col-12">
-              <img src={a31} alt="" className="py-3" />
+              <img src={a31} alt="" className="mt-3" />
               <img
                 src={a40}
                 alt=""
@@ -564,13 +565,13 @@ const Productlist = () => {
                   href="#"
                   className="bg-white d11 col"
                 >
-                  <img src="./images/Cart.svg" alt="" />
+                  <img src={cart} alt="" />
                   <p style={{ marginBottom: "0rem" }}>Your Cart</p>
                 </button>
               </div>
             </div>
             <div className="col-xl-3  col-lg-4 col-md-6 bg-white p9 col-12">
-              <img src={a31} alt="" className="py-3" />
+              <img src={a31} alt="" className="mt-3" />
               <img
                 src={a41}
                 alt=""
@@ -610,13 +611,13 @@ const Productlist = () => {
                   href="#"
                   className="bg-white d11 col"
                 >
-                  <img src="./images/Cart.svg" alt="" />
+                  <img src={cart} alt="" />
                   <p style={{ marginBottom: "0rem" }}>Your Cart</p>
                 </button>
               </div>
             </div>
             <div className="col-xl-3  col-lg-4 col-md-6 bg-white p9 col-12">
-              <img src={a31} alt="" className="py-3" />
+              <img src={a31} alt="" className="mt-3" />
               <img
                 src={a42}
                 alt=""
@@ -656,13 +657,13 @@ const Productlist = () => {
                   href="#"
                   className="bg-white d11 col"
                 >
-                  <img src="./images/Cart.svg" alt="" />
+                  <img src={cart} alt="" />
                   <p style={{ marginBottom: "0rem" }}>Your Cart</p>
                 </button>
               </div>
             </div>
             <div className="col-xl-3  col-lg-4 col-md-6 bg-white p9 col-12">
-              <img src={a31} alt="" className="py-3" />
+              <img src={a31} alt="" className="mt-3" />
               <img
                 src={a43}
                 alt=""
@@ -700,7 +701,7 @@ const Productlist = () => {
                   href="#"
                   className="bg-white d11 col"
                 >
-                  <img src="./images/Cart.svg" alt="" />
+                  <img src={cart} alt="" />
                   <p style={{ marginBottom: "0rem" }}>Your Cart</p>
                 </button>
               </div>
